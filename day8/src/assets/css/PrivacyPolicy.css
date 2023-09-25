@@ -1,0 +1,31 @@
+.privacy-policy-container {
+	background: linear-gradient(to left, rgba(122, 96, 255, 0.178), rgba(204, 159, 250, 0.297));
+	color: #000;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	margin: 0px;
+	padding: 70px;
+	min-height: 40vh;
+	width: 50%;
+	text-align: center;
+	display: inline-block;
+}
+.privacy-title{
+	text-align: center;
+	align-items:end;
+	display: inline-block;
+	font-size: 100px;
+}
+.mani-policy{
+	background-color: rgb(205, 159, 250, 0.90);
+}
+
+.warning-icon {
+	font-size: 24px;
+	margin-right: 10px;
+}
+
+.privacy-policy-text {
+	flex: 1;
+}
